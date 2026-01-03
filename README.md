@@ -10,3 +10,6 @@ Unity 로 제작한 2D 플랫포머 러너 게임입니다.
 
 ## 플레이 링크
 https://play.unity.com/en/games/95be4bbe-9dfa-49d5-8a5a-2ac3b7be3b03/uni-run10web
+
+## Reference
+[**소문난 명강의_레트로의 유니티 6 게임 프로그래밍 에센스 3판**](https://www.hanbit.co.kr/store/books/look.php?p_code=B8935295136)
